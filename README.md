@@ -1,71 +1,64 @@
 # Hi, I'm Mahbub Alam 👋
 
-Backend-focused Software Developer from Bangladesh.
+Backend Developer specializing in Laravel and PHP.
 
-## 👨‍💻 About Me
+I build production-oriented web applications, APIs, business platforms,
+background-processing systems, and deployment-ready Laravel applications.
 
-- Backend development with Laravel & PHP
-- Working with Docker, Linux, MySQL, Redis/Valkey and Nginx
-- Building REST APIs, background jobs and queue-based systems
-- Exploring Python/FastAPI and Node.js for multi-service applications
-- Interested in production architecture, deployment and scalable backend systems
-- Open to remote Backend Developer / Software Engineer opportunities
+## Core Expertise
 
-## 🛠 Tech Stack
-
-**Backend**
-- PHP
-- Laravel
-- REST APIs
+- PHP & Laravel
+- Laravel Livewire
 - MySQL
 - Redis / Valkey
+- REST APIs
 - Queues & Background Jobs
-
-**DevOps**
+- Authentication & Authorization
 - Linux / Ubuntu
-- Docker
-- Docker Compose
-- Nginx
-- PHP-FPM
+- Docker & Docker Compose
+- Nginx & PHP-FPM
 - Git & GitHub
+- VPS / Cloud Deployment
 
-**Other Technologies**
-- Python
-- FastAPI
-- Node.js
-- Express.js
-- JavaScript
-- Livewire
+## Selected Work
 
-## 🚀 Featured Projects
+### Aysogen
+AI and digital services platform built around Laravel-based application architecture.
+
+Current version is being reworked and prepared for AWS deployment.
 
 ### ArenaFlow
-Sports venue booking platform with multi-role dashboards, booking workflows, payments, owner wallets, commissions and background processing.
-
-**Tech:** Laravel, Livewire, MySQL, Queues
+Sports venue booking platform with customer, venue-owner and admin workflows,
+reservations, payments, commissions, wallets and background processing.
 
 Live Demo: https://arenaflow.mahbubalamevan.com
 
-### PDF Analyzer
-Multi-service document processing application using Laravel, Python/FastAPI, Node.js and Docker.
+### MediGO
+Live medicine and surgical-item delivery platform with product search,
+ordering workflows, customer experience features and mobile-app integration.
 
-**Tech:** Laravel, Python, FastAPI, Node.js, Docker
+Live: https://www.medi24go.com
 
-### PolyStack
-Docker-based multi-service architecture integrating Laravel, Python, Node.js, Nginx, workers and MySQL.
+## Additional Technologies
 
-**Focus:** Containers, service communication, queues and deployment architecture.
+Working knowledge of:
+- Python / FastAPI
+- Node.js / Express.js
+- JavaScript
 
-## 🌱 Currently Improving
+Used mainly when a project benefits from a separate service or realtime workflow.
 
-- Backend architecture
-- Docker production workflows
+## Current Focus
+
+- Advanced Laravel backend development
+- Production architecture
+- Docker-based deployments
+- Redis / queues
 - CI/CD
-- Linux server administration
-- System design
-- Technical communication
+- AWS
+- Backend scalability
 
-## 🤝 Connect With Me
+## Connect
 
-- LinkedIn: https://www.linkedin.com/in/mahbub-alam-81a34211a/
-- GitHub: https://github.com/mahbubevan
+Portfolio: https://www.mahbubalamevan.com  
+LinkedIn: https://www.linkedin.com/in/mahbub-alam-81a34211a/
